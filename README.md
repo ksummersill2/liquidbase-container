@@ -1,2 +1,2 @@
-# liquidbase-container
-Used for liquidbase movement through SSH
+# Liquidbase-Container
+This container is used to install the tools required for pipeline movements. 
