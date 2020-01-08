@@ -6,3 +6,4 @@ RUN apk add --update --no-cache sshpass
 ENV JAVA_HOME=/usr/lib/jvm/java-1.8-openjdk
 ENV PATH="$JAVA_HOME/bin:${PATH}"
 RUN java -version
+RUN apk add --no-cache bash
